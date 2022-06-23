@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Montserrat:wght@300&display=swap');
+
+/*font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;*/
+
+.body {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.navbar {
+    background-color: #227188;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
